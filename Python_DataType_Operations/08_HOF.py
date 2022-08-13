@@ -1,0 +1,8 @@
+# Reduce
+#
+# Map
+#
+#
+# Filter
+#
+# lambda
